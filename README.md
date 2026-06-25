@@ -1,5 +1,11 @@
 # 🚗 Traffic Accident Hotspot Reporter
 
+# Traffic Accident Hotspot Reporter
+
+## Dashboard Preview
+
+![Dashboard](assets/dashboard_preview.png)
+
 ## Overview
 
 Traffic Accident Hotspot Reporter is a fully offline Python application developed using Streamlit. It reads road accident records from a CSV file, performs data cleaning and validation, calculates key safety metrics, and presents the results through an interactive dashboard.
