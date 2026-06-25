@@ -4,7 +4,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard_preview.png)
+![Dashboard](assets/dashboard_preview.PNG)
 
 ## Overview
 
